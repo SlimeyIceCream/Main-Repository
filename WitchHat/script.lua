@@ -1,0 +1,1 @@
+particle.addParticle("flame", {0, 8, 0, 0, 1, 0})
