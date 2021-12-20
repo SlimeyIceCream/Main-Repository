@@ -1,0 +1,7 @@
+{
+    "type": "origins:particle",
+    "particle": "minecraft:portal",
+    "frequency": 4,
+    "name": "Aura",
+    "description": "In your time as an end celestial you gained quite a bit of reputation... Your skin glows when your gazed upon and you have particles around you."
+}

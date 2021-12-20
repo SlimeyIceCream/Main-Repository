@@ -1,0 +1,10 @@
+{
+    "type": "origins:attribute",
+    "modifier": {
+        "attribute": "minecraft:generic.max_health",
+        "value": 4,
+        "operation": "subtraction"
+    },
+    "name": "The air seems different here",
+    "description": "The air is different in the overworld, you're weaker.  -1 full hearts."
+}

@@ -1,0 +1,20 @@
+{
+    "type": "origins:action_over_time",
+    "entity_action": {
+        "type": "origins:apply_effect",
+        "effect": {
+            "effect": "minecraft:regeneration",
+            "duration": 200,
+            "amplifier": 0
+        }
+    },
+    "interval": 20,
+    "condition": {
+        "type": "origins:daytime",
+        "inverted": false
+    },
+    "name": "A *very* hot star",
+    "description": "The light is so warm, so welcoming, though it may be the opposite of your home, you find it enjoyable. Regeneration 1."
+}
+//    "name": "A *very* hot star"
+//   "description": ""

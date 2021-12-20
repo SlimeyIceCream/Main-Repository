@@ -1,0 +1,8 @@
+{
+  "type": "origins:modify_player_spawn",
+  "dimension": "minecraft:the_end",
+  "structure": "minecraft:end_city",
+  "spawn_strategy": "center",
+  "name": "Endworld spawn",
+  "description": "You spawn in the end dimension"
+}

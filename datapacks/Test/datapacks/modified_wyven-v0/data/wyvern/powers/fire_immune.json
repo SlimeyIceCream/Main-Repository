@@ -1,0 +1,10 @@
+{
+    "type": "origins:fire_immunity",
+    "condition": {
+        "type": "origins:food_level",
+        "comparison": ">=",
+        "compare_to": 6
+    },
+    "name": "The nether just isnt hot",
+    "description": "The nether just doesnt feel hot anymore, youve been their so long.. Fire immunity."
+}

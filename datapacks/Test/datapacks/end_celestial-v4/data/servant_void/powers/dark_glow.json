@@ -1,0 +1,10 @@
+{
+    "type": "origins:self_glow",
+    "use_teams": false,
+    "red": 0.0,
+    "green": 0.0,
+    "blue": 0.0,
+    "name": "dark_glow",
+    "description": "You fear their gaze.. You glow when looked upon",
+    "hidden": true
+}

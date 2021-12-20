@@ -1,0 +1,7 @@
+{
+    "type": "origins:particle",
+    "particle": "minecraft:lava",
+    "frequency": 6,
+    "name": "Majestic",
+    "description": "Lava particles spawn around you."
+}

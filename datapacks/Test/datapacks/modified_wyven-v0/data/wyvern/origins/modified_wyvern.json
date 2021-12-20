@@ -1,0 +1,23 @@
+{
+	"powers": [
+		"wyvern:scales",
+		"wyvern:aura",
+		"wyvern:more_health",
+		"wyvern:fireball",
+		"wyvern:slowfall1",
+		"wyvern:winged_being",
+		"wyvern:effect_immunity",
+		"wyvern:fire_immune",
+		"wyvern:lavasee",
+		"wyvern:lavaspeed",
+		"wyvern:water",
+		"wyvern:no_regeneration"
+	],
+	"icon": "minecraft:obsidian",
+	"order": 10,
+	"impact": 3,
+	"name": "Wyvern - Kayden",
+	"description": "A lesser race of dragon, born from a horrific nether experiemnt."
+}
+//copy right Moshi#4010, Jack Hemo, 2021 - 2081. Gnu public v3
+//"a loyal servant of the end, until the end."

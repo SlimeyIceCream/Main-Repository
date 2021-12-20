@@ -1,0 +1,18 @@
+{
+    "type": "origins:action_over_time",
+    "entity_action": {
+        "type": "origins:apply_effect",
+        "effect": {
+            "effect": "minecraft:speed",
+            "duration": 200,
+            "amplifier": 0
+        }
+    },
+    "interval": 20,
+    "condition": {
+        "type": "origins:daytime",
+        "inverted": true
+    },
+    "name": "The night air",
+    "description": "It feels good to be under the stars again, but.. They seem different, almost scary.  Speed boost."
+}

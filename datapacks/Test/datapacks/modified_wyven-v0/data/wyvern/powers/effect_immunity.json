@@ -1,0 +1,9 @@
+{
+    "type": "origins:effect_immunity",
+    "effects": [
+        "minecraft:weakness",
+        "minecraft:strength",
+        "minecraft:wither"
+    ],
+    "hidden": true
+}

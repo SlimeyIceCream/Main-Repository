@@ -1,0 +1,9 @@
+{
+    "type": "origins:model_color",
+    "red": 0.5,
+    "green": 0.2,
+    "blue": 0.2,
+    "alpha": 1,
+    "name": "Wyvern Genes",
+    "description": "Your wyvern genetics causes parts of your skin to turn into scales.  Giving you +3 hearts and a redish tint, and immunity to certain effects."
+}

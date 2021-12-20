@@ -1,0 +1,17 @@
+{
+    "type": "origins:active_self",
+    "cooldown": 200,
+    "hud_render": {
+        "should_render": true,
+        "sprite_location": "origins:textures/gui/resource_bar.png",
+        "bar_index": 4
+    },
+    "entity_action": {
+        "type": "origins:add_velocity",
+        "space": "local",
+        "z": 1.60
+    },
+    "condition": {
+        "type": "origins:fall_flying"
+    }
+}

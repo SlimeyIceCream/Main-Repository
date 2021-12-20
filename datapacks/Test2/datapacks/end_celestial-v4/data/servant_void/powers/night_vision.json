@@ -1,0 +1,13 @@
+{
+    "type": "origins:toggle_night_vision",
+    "strength": 0.5,
+    "condition": {
+    "type": "origins:daytime",
+    "inverted": true
+    },
+    "key": {
+        "key": "key.origins.secondary_active"
+    },
+    "name": "Purple eyes",
+    "description": "Your purple eyes give you better vision at night!"
+}

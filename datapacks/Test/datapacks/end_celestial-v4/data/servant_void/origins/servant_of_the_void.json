@@ -1,0 +1,28 @@
+{
+	"powers": [
+		"servant_void:skin_mutation",
+		"servant_void:water_walk",
+		"servant_void:food_blasphamy",
+		"servant_void:night_vision",
+		"servant_void:aura",
+		"servant_void:dark_glow",
+		"servant_void:heat_from_fire",
+		"servant_void:regenerate",
+		"servant_void:speed",
+		"servant_void:different_air",
+		"servant_void:two_less_hp",
+		"servant_void:flight",
+		"servant_void:boost",
+		"servant_void:watohspeed",
+		"servant_void:size",
+		"servant_void:endspawn",
+		"servant_void:nofall"
+	],
+	"icon": "minecraft:purpur_block",
+	"order": 10,
+	"impact": 3,
+	"name": "End Celestial -V.2-",
+	"description": "You are an ender celestial, a race of powerful end beings, once feared in all dimensions.  You, where one of the most fearsome end celestials, so strong that almost non in the land could touch you, you now search dimension after dimension in search of some kind of challange."
+}
+//copy right Moshi#4010, Jack Hemo, 2021 - 2081. Gnu public v3
+//"a loyal servant of the end, until the end."

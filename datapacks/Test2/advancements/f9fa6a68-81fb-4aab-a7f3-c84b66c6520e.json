@@ -1,0 +1,61 @@
+{
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2021-11-24 20:37:29 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2021-11-24 20:37:29 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2021-11-24 20:41:37 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2021-11-24 20:37:29 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2021-11-24 20:37:29 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2021-11-24 20:37:29 -0600"
+    },
+    "done": true
+  },
+  "requiem:adventure/the_choice": {
+    "criteria": {
+      "remnant_choice": "2021-11-24 20:37:27 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2021-11-24 20:37:29 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2021-11-24 20:37:31 -0600",
+      "minecraft:desert_hills": "2021-11-24 20:37:57 -0600",
+      "minecraft:desert": "2021-11-24 20:37:53 -0600",
+      "minecraft:beach": "2021-11-24 20:37:23 -0600",
+      "minecraft:wooded_mountains": "2021-11-24 20:51:04 -0600"
+    },
+    "done": false
+  },
+  "DataVersion": 2730
+}

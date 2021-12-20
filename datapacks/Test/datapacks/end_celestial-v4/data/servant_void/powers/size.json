@@ -1,0 +1,9 @@
+{
+    "type": "origins:multiple",
+    "modify_size": {
+        "type": "extraorigins:modify_size",
+        "scale": 1.23
+    },
+    "name": "Enderly height",
+    "description": "As are most entities in the end, your slightly taller then most entities. (0.23 taller)"
+}

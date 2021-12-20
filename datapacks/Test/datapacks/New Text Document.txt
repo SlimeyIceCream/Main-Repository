@@ -1,0 +1,42 @@
+- End Celestial **-V2- **
+You are an ender celestial, a race of powerful end beings, once feared in all dimensions.  You, where one of the most fearsome end celestials, so strong that almost non in the land could touch you, you now search dimension after dimension in search of some kind of challenge.
+Pros:
+*Aura:*
+In your time as an end celestial you gained quite a bit of reputation... Your skin glows when your gazed upon and you have particles around you.
+*Enderly height:*
+As are most entities in the end, your slightly taller then most entities. (0.23 taller).
+*Enderdragon bloodline:*
+Your enderdragon bloodline allows you to fly, as well as boost forward using a massive flap of your wings.
+*Food? Blasphamy:*
+Why would i ever need to hunger in the end?  Your food never drops bellow 3.5.
+*Purple vision:*
+Your purple eyes give you better vision at night.
+*A very hot star:*
+The light is so warm, so welcoming, though it may be the opposite of your home, you find it enjoyable. Regeneration when its day.
+*The night air:*
+It feels good to be under the stars again, but.. They seem different, almost scary.  Speed boost at night.
+*Enderdragon bloodline:*
+Your enderdragon bloodline allows you to fly, as well as boost forward using a massive flap of your wings.
+Cons:
+*Fire.. Is strange:*
+You never encountered fire in the cold realm of the end, leaving you unable to put yourself out.
+*Different air:*
+There is much less air in the overworld, causing you to lose a two hearts.
+*Hidden:*
+Slightly faster water movement
+No fall damage
+
+Designed for 1.17.1, but it works on 1.16.5 but some features might not work
+Edit: I forgot to add one ability, sorry!- Its added now.
+My ~~first~~ second? origin.
+
+```**WARNING**
+This datapack requires(ish) pekhui and extra origins!
+I also recommend to install Better End or a similar mod!
+```
+
+:green_square: Balanced
+:red_square: Op
+:yellow_square: Weak 
+
+**-Version 2!-**

@@ -1,0 +1,17 @@
+{
+    "type": "origins:action_over_time",
+    "entity_action": {
+        "type": "origins:apply_effect",
+        "effect": {
+            "effect": "minecraft:slow_falling",
+            "duration": 40,
+            "amplifier": 0
+        }
+    },
+    "interval": 1,
+    "condition": {
+        "type": "origins:sneaking"
+    },
+    "name": "Musky air",
+    "description": "The air of the nether is much heavier then the overworld.  You get slowfall when you sneak."
+}

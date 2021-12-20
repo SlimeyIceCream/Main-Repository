@@ -1,0 +1,16 @@
+{
+  "type": "origins:action_over_time",
+  "interval": 2,
+  "condition": {
+    "type": "origins:food_level",
+    "comparison": "==",
+    "compare_to": 6
+  },
+  "entity_action": {
+    "type": "origins:feed",
+    "food": 1,
+    "saturation": 2
+  },
+  "name": "Food? Blasphamy!",
+  "description": "Why would i ever need to hunger in the endless void?  Your food never drops bellow 6 half-bars."
+} 

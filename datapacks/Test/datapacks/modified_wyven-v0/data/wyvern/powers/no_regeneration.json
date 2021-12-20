@@ -1,0 +1,5 @@
+{
+    "type": "origins:disable_regen",
+    "name": "Why would i ever need to heal?",
+    "description": "Im never going to get hit, so why do i need to heal?  No natural regen."
+}

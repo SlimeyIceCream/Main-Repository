@@ -1,0 +1,13 @@
+{
+    "type": "origins:exhaust",
+    "interval": 20,
+    "exhaustion": 4.0,
+    "condition": {
+        "type": "origins:fluid_height",
+        "fluid": "minecraft:water",
+        "comparison": ">",
+        "compare_to": 0.0
+    },
+    "name": "How do i swim again?",
+    "description": "You learned how to swim a long time ago from a someone traveling in the end, that doesnt mean you where any good at it though. (You exhaust much quicker when touching water)"
+}

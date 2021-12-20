@@ -1,0 +1,21 @@
+{
+    "type": "origins:elytra_flight",
+    "render_elytra": true,
+    "texture_location": "minecraft:textures/entity/elytra.png",
+    "name": "Enderdragon bloodline",
+    "description": "Your enderdragon bloodline allows you to fly, as well as boost forward using a massive flap of your wings."
+}
+//{
+//    "type": "origins:elytra_flight",
+//   "texture_location": "minecraft:textures/entity/elytra.png",
+//    "name": "Enderdragon bloodline",
+//    "description": "Your enderdragon bloodline allows you to fly."
+//}
+//         "type": "origins:equipped_item",
+//        "equipment_slot": "offhand",
+//       "item_condition": {
+//            "type": "origins:ingredient",
+//            "ingredient": {
+//                "item": "minecraft:feather"
+//            }
+//       }

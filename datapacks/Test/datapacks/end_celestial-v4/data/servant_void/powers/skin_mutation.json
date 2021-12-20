@@ -1,0 +1,9 @@
+{
+    "type": "origins:model_color",
+    "red": 0.74,
+    "green": 0.1,
+    "blue": 0.75,
+    "alpha": 0.80,
+    "name": "Skin Mutation",
+    "description": "Your time in the endless dimension has caused your skin to mutate.."
+}
